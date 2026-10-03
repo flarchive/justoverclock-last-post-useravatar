@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of justoverclock/last-post-useravatar.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/last-post-useravatar) or the [upstream repository](https://github.com/justoverclockl/last-post-useravatar).
 
-**0** versions archived · Latest: [`0.1.8`](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.0.0`
+**9** versions archived · Latest: [`0.1.8`](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-12-27 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-12-27 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-12-27 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-12-27 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-12-27 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-02-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.5) |
+| `0.1.6` | 2022-02-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.6) |
+| `0.1.7` | 2022-02-08 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.7) |
+| `0.1.8` | 2022-03-12 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-last-post-useravatar/tree/archive/v0.1.8) |
 
 Catalog entry: [packages/justoverclock-last-post-useravatar.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-last-post-useravatar.json)
 
